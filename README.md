@@ -1,6 +1,6 @@
-# Monoalphabetic Cipher Decipher
+# Monoalphabetic Cipher Decoder
 
-Monoalphabetic Cipher Decipher is a python script that will decipher English monoalphabetic ciphers.
+Monoalphabetic Cipher Decoder is a python script that will decipher English monoalphabetic ciphers.
 
 The algorithm used to decipher things is a genetic algorithm, which depends on chance to obtain the most confident result.
 There are no library dependencies, and the code is from an extra credit project in my Computer and Network Security course at UND.
